@@ -8,8 +8,9 @@ const data = {
             price:420.69,
             brand:'Bean',
             rating:5,
-            numReviews:10,
-            description:'Bean flavored drink'
+            numReviews:56235,
+            description:'Bean flavored drink',
+            countInStock: 400
         },
         {
             _id:'2',
@@ -19,8 +20,9 @@ const data = {
             price:4.50,
             brand:'Bean',
             rating:4.5,
-            numReviews:10,
-            description:'Bean based organic bandaid'
+            numReviews:2156,
+            description:'Bean based organic bandaid',
+            countInStock: 400
         },
         {
             _id:'3',
@@ -30,8 +32,9 @@ const data = {
             price:4.20,
             brand:'Bean',
             rating:4,
-            numReviews:10,
-            description:'Bean based gluten free organic coco pebbles alternative'
+            numReviews:34,
+            description:'Bean based gluten free organic coco pebbles alternative',
+            countInStock: 0
         },
         {
             _id:'4',
@@ -41,8 +44,9 @@ const data = {
             price:20,
             brand:'Bean',
             rating:3.5,
-            numReviews:10,
-            description:'Bean valentines candy'
+            numReviews:6,
+            description:'Bean valentines candy',
+            countInStock: 400
         },
         {
             _id:'5',
@@ -52,8 +56,9 @@ const data = {
             price:2.69,
             brand:'Bean',
             rating:5,
-            numReviews:10,
-            description:'Bean and dish soap flavored sammich'
+            numReviews:290,
+            description:'Bean and dish soap flavored sammich',
+            countInStock: 400
         },
 
 
