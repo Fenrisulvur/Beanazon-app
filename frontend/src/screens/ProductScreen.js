@@ -1,6 +1,6 @@
 import React from 'react'
 import Product from '../components/product'
-import data from '../data'
+import data from '../../../backend/data'
 import Rating from '../components/rating'
 import { Link } from 'react-router-dom'
 
