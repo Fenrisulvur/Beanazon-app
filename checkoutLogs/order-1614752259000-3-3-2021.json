@@ -1,0 +1,23 @@
+{
+	"orderId": 1614752259000,
+	"total": "140.45",
+	"dateOfPurchase": "3/3/2021@1:17:17",
+	"purchasedItems": [
+		{
+			"name": "Beandaids",
+			"image": "/images/p2.jpg",
+			"price": 4.5,
+			"countInStock": 400,
+			"product": "2",
+			"qty": 5
+		},
+		{
+			"name": "Mr.Bean Brewer",
+			"image": "/images/p8.jpg",
+			"price": 110,
+			"countInStock": 400,
+			"product": "8",
+			"qty": 1
+		}
+	]
+}

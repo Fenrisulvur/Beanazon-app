@@ -1,0 +1,31 @@
+{
+	"orderId": 1614749828000,
+	"total": "486.89",
+	"dateOfPurchase": "3/3/2021@0:37:37",
+	"purchasedItems": [
+		{
+			"name": "Beanutbutter and dettolly",
+			"image": "/images/p5.jpg",
+			"price": 2.69,
+			"countInStock": 400,
+			"product": "5",
+			"qty": 6
+		},
+		{
+			"name": "Beandaids",
+			"image": "/images/p2.jpg",
+			"price": 4.5,
+			"countInStock": 400,
+			"product": "2",
+			"qty": 5
+		},
+		{
+			"name": "Beana Colada",
+			"image": "/images/p1.png",
+			"price": 420.69,
+			"countInStock": 400,
+			"product": "1",
+			"qty": 1
+		}
+	]
+}

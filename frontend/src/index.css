@@ -36,7 +36,7 @@ body {
   'main'
   'footer';
   grid-template-columns: 1fr;
-  grid-template-rows: 5rem 1fr 5rem;
+  grid-template-rows: 9rem 1fr 6rem;
   height: 100%
 }
 header{
@@ -134,16 +134,31 @@ a.brand{
 .col-2{
   flex: 2 1 50rem;
 }
+.min-30{
+  min-width: 30rem;
+}
 /* Images */
 img{
   border-radius: .5rem;
+}
+img.small {
+  max-width: 5rem;
+  width:100%;
+}
+img.small-logo {
+  max-width: 5rem;
+  width:100%;
 }
 img.medium {
   max-width: 29rem;
   width: 100%;
 }
 img.large {
-  width: 100%;
+  max-width: 60rem;
+  width: 93%;
+  border-radius: 2rem;
+  padding: 1rem;
+  background-color: #ececec;
 }
 /* card */
 .card{
@@ -160,6 +175,22 @@ img.large {
 }
 .card-body > * {
   margin-bottom: .5rem;
+}
+.searchheader {
+    background-color: #dddddd;
+    border-radius: 2rem;
+    padding: 4px;
+    outline: none;
+    width: 100%;
+    text-align: center;
+}
+.max-width {
+  width: 100%;
+}
+.searchheader:focus, .searchheader:active, .searchheader::selection{
+  background-color: #dddddd;
+  border-radius: 2rem;
+  padding: 4px;
 }
 .price{
   font-size: 2rem;

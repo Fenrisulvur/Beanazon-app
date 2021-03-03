@@ -60,8 +60,42 @@ const data = {
             description:'Bean and dish soap flavored sammich',
             countInStock: 400
         },
-
-
+        {
+            _id:'6',
+            name:'French bean press',
+            category:'tool',
+            image:'/images/p6.jpg',
+            price:22.99,
+            brand:'Bean',
+            rating:4.5,
+            numReviews:1503,
+            description:'French press for pressing beans of any type',
+            countInStock: 400
+        },
+        {
+            _id:'7',
+            name:'Coca-Cola bean flavor',
+            category:'soft drink',
+            image:'/images/p7.png',
+            price:1.99,
+            brand:'Bean',
+            rating:4,
+            numReviews:54,
+            description:'Classic bean flavored Coca-Cola',
+            countInStock: 400
+        },
+        {
+            _id:'8',
+            name:'Mr.Bean Brewer',
+            category:'appliance',
+            image:'/images/p8.jpg',
+            price:110.00,
+            brand:'Bean',
+            rating:4.5,
+            numReviews:2290,
+            description:'The bean brewer of your dreams. Just fill the resevoir and insert your favorite beans.',
+            countInStock: 400
+        }
     ]
 }
 

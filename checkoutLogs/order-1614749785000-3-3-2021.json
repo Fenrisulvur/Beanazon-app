@@ -1,0 +1,15 @@
+{
+	"orderId": 1614749785000,
+	"total": "23.85",
+	"dateOfPurchase": "3/3/2021@0:36:36",
+	"purchasedItems": [
+		{
+			"name": "Beandaids",
+			"image": "/images/p2.jpg",
+			"price": 4.5,
+			"countInStock": 400,
+			"product": "2",
+			"qty": 5
+		}
+	]
+}
