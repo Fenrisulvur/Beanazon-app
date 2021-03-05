@@ -1,0 +1,23 @@
+{
+	"orderId": 1614879267000,
+	"total": "488.33",
+	"dateOfPurchase": "4/3/2021@12:34:34",
+	"purchasedItems": [
+		{
+			"name": "Valenbean Chocolate",
+			"image": "/images/p4.jpg",
+			"price": 20,
+			"countInStock": 400,
+			"product": "4",
+			"qty": 2
+		},
+		{
+			"name": "Beana Colada",
+			"image": "/images/p1.png",
+			"price": 420.69,
+			"countInStock": 400,
+			"product": "1",
+			"qty": 1
+		}
+	]
+}

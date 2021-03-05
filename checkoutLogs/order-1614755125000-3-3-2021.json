@@ -1,0 +1,23 @@
+{
+	"orderId": 1614755125000,
+	"total": "2908.79",
+	"dateOfPurchase": "3/3/2021@2:5:5",
+	"purchasedItems": [
+		{
+			"name": "Mr.Bean Brewer",
+			"image": "/images/p8.jpg",
+			"price": 110,
+			"countInStock": 400,
+			"product": "8",
+			"qty": 2
+		},
+		{
+			"name": "Beana Colada",
+			"image": "/images/p1.png",
+			"price": 420.69,
+			"countInStock": 400,
+			"product": "1",
+			"qty": 6
+		}
+	]
+}

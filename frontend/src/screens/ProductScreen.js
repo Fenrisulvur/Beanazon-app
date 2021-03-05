@@ -28,13 +28,16 @@ export default function ProductScreen(props) {
         <div>
             <Link to="/">Return</Link>
             <div className="row top">
-                <div className="col-2">
+                <div className="col-2 row center">
                     <img className = "large" src={product.image} alt={product.name}></img>
                 </div>
                 <div className="col-1">
                     <ul>
                         <li>
                             <h1>{product.name}</h1>
+                        </li>
+                        <li>
+                            <h2>Category: {product.category}</h2>
                         </li>
                         <li>
                             <Rating rating={product.rating} numReviews={product.numReviews} ></Rating>
