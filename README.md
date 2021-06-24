@@ -1,5 +1,5 @@
 # Beanazon-app
-An amazon themed parody web store for my JavaScript final project.
+An bean themed amazon parody web store for my JavaScript final project.
 
 ### Server libraries
 NodeJS v12.19.0
